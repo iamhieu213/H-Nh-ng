@@ -1,0 +1,2 @@
+../Core/Src/7seg.c:24:6:Set7SegDisplayValue	16	static
+../Core/Src/7seg.c:30:6:Run7SegDisplay	16	static
