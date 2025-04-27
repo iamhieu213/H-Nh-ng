@@ -1,0 +1,11 @@
+../Core/Src/execute.c:37:7:SetTime	48	static
+../Core/Src/execute.c:55:10:BCD_To_Decimal	16	static
+../Core/Src/execute.c:58:13:GetTime	48	static
+../Core/Src/execute.c:77:7:SH1106_DisplayMessage	120	static
+../Core/Src/execute.c:87:7:LogCard	24	static
+../Core/Src/execute.c:94:10:IsCardValid	24	static
+../Core/Src/execute.c:102:7:CheckCardAndLog	24	static
+../Core/Src/execute.c:127:7:TestDS1307	88	static
+../Core/Src/execute.c:144:6:ShowTimeOnLCDLoop	88	static
+../Core/Src/execute.c:166:6:ProcessUARTCommands	192	static
+../Core/Src/execute.c:202:6:TestSh1106	96	static
